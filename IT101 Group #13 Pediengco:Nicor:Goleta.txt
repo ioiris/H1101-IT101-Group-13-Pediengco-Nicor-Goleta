@@ -1,0 +1,601 @@
+package motorPh;
+
+public class EmployeeInformation {
+
+	public static void main(String[] args) {
+
+		String EmpFname,EmpLName,EmpNumber,BDay,Position,BSalary;
+	    
+		EmpFname = "Jose";
+		EmpLName = "Crisostomo";
+		EmpNumber = "10001";
+		BDay = "02/14/1988";
+		Position = "HR Manager";
+		BSalary = "62,000";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Christian";
+		EmpLName = "Mata";
+		EmpNumber = "10002";
+		BDay = "October 21, 1987";
+		Position = "Account Team Leader";
+		BSalary = "42,975";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Brad";
+		EmpLName = "San Jose";
+		EmpNumber = "10003";
+		BDay = "March 15, 1996";
+		Position = "HR Team Leader";
+		BSalary = "42,975";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Anthony";
+		EmpLName = "Salcedo";
+		EmpNumber = "10004";
+		BDay = "September 14, 1993";
+		Position = "Payroll Manager";
+		BSalary = "60,825";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Alice";
+		EmpLName = "Romualdez";
+		EmpNumber = "10005";
+		BDay = "May 14, 1992";
+		Position = "HR Rank and File";
+		BSalary = "22,500";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Rosie";
+		EmpLName = "Atienza";
+		EmpNumber = "10006";
+		BDay = "September 24, 1948";
+		Position = "HR Rank and File";
+		BSalary = "22,500";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Martha";
+		EmpLName = "Farala";
+		EmpNumber = "10007";
+		BDay = "January 11, 1942";
+		Position = "Payroll Rank and File";
+		BSalary = "24,000";
+		 
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Leila";
+		EmpLName = "Martinez";
+		EmpNumber = "10007";
+		BDay = "July 11, 1970";
+		Position = "Payroll Rank and File";
+		BSalary = "24,000";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Allison";
+		EmpLName = "San Jose";
+		EmpNumber = "10009";
+		BDay = "June 24, 1986";
+		Position = "Account Rank and File";
+		BSalary = "22,500";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Cydney";
+		EmpLName = "Rosario";
+		EmpNumber = "10010";
+		BDay = "October 6, 1996";
+		Position = "Account Rank and File";
+		BSalary = "22,500";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Josie";
+		EmpLName = "Lopez";
+		EmpNumber = "10011";
+		BDay = "January 14, 1937";
+		Position = "Payroll Team Leader";
+		BSalary = "38,475";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Selena";
+		EmpLName = "De Leon";
+		EmpNumber = "10012";
+		BDay = "February 20, 1945";
+		Position = "Account Team Leader";
+		BSalary = "41,850";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Fredrick";
+		EmpLName = "Romualdez";
+		EmpNumber = "10013";
+		BDay = "March 10, 1985";
+		Position = "Account Manager";
+		BSalary = "63,500";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Mark";
+		EmpLName = "Baustista";
+		EmpNumber = "10014";
+		BDay = "February 12, 1961";
+		Position = "Account Rank and File";
+		BSalary = "23,250";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Darlene";
+		EmpLName = "Lazaro";
+		EmpNumber = "10015";
+		BDay = "November 25, 1985";
+		Position = "Account Rank and File";
+		BSalary = "23,250";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Kolby";
+		EmpLName = "Delos Santos";
+		EmpNumber = "10016";
+		BDay = "February 26, 1980";
+		Position = "Account Rank and File";
+		BSalary = "24,000";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Vella";
+		EmpLName = "Santos";
+		EmpNumber = "10017";
+		BDay = "December 31, 1983";
+		Position = "Account Rank and File";
+		BSalary = "22,500";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Tomas";
+		EmpLName = "Del Rosario";
+		EmpNumber = "10018";
+		BDay = "December 18, 1978";
+		Position = "Account Rank and File";
+		BSalary = "22,500";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Jacklyn";
+		EmpLName = "Tolentino";
+		EmpNumber = "10019";
+		BDay = "May 19, 1944";
+		Position = "Account Rank and File";
+		BSalary = "24,000";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Percival";
+		EmpLName = "Gutierrez";
+		EmpNumber = "10020";
+		BDay = "December 18, 1970";
+		Position = "Account Rank and File";
+		BSalary = "24,750";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Garfield";
+		EmpLName = "Manalaysay";
+		EmpNumber = "10021";
+		BDay = "August 28, 1966";
+		Position = "Account Rank and File";
+		BSalary = "24,750";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Lizeth";
+		EmpLName = "Villegas";
+		EmpNumber = "10022";
+		BDay = "December 12, 1981";
+		Position = "Account Rank and File";
+		BSalary = "24,000";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Carol";
+		EmpLName = "Ramos";
+		EmpNumber = "10023";
+		BDay = "August 20, 1978";
+		Position = "Account Rank and File";
+		BSalary = "22,500";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Emelia";
+		EmpLName = "Maceda";
+		EmpNumber = "10024";
+		BDay = "April 14, 1963";
+		Position = "Account Rank and File";
+		BSalary = "22,500";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+		
+		EmpFname = "Delia";
+		EmpLName = "Aguilar";
+		EmpNumber = "10025";
+		BDay = "January 27, 1939";
+		Position = "Account Rank and File";
+		BSalary = "22,500";
+		
+		        
+		System.out.println("EMPLOYEE INFORMATION");
+		System.out.println("First Name:" + EmpFname);
+		System.out.println("Last Name:" + EmpLName);
+		System.out.println("Employee Number:" + EmpLName);
+		System.out.println("Birthday:" + BDay);
+		System.out.println("Position:" + Position);
+		System.out.println("Basic Salary:" + BSalary);
+	}
+
+}
+
+package motorPh;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+
+public class CalculateHoursWorked {
+
+	public static void main(String[] args) {
+		
+		String file = "src\\motorPH\\Attendance Record.csv";
+		BufferedReader reader = null;
+		String line = "", timeSplit[];
+		int startHour, startMin, endHour, endMin;
+		
+		try {
+			reader = new BufferedReader(new FileReader(file));
+			while((line = reader.readLine()) != null) {
+				
+				String[] row = line.split(",");
+				
+				System.out.println("Employee Number: " + row[0]);
+				System.out.println("Last Name: " + row[1]);
+				System.out.println("First Name: " + row[2]);
+				System.out.println("Date: " + row[3]);
+				System.out.println("Time In: " + row[4]);
+				System.out.println("Time Out: " + row[5]);
+				
+				timeSplit = row[4].split(":");
+			    startHour = Integer.valueOf(timeSplit[0]);
+			    startMin = Integer.valueOf(timeSplit[1]);
+			    timeSplit = row[5].split(":");
+			    endHour = Integer.valueOf(timeSplit[0]);
+			    endMin = Integer.valueOf(timeSplit[1]);
+			    
+			    int workedMin = (endHour - startHour) * 60 + (endMin - startMin);
+			    int workedHour = workedMin / 60;
+			    workedMin = workedMin % 60;
+				
+			    System.out.println("Hours worked: " + workedHour + " hours and " + workedMin + " minutes");				
+				
+				
+				/*for (String index : row) {
+					System.out.printf("%-15s", index);
+				}*/
+				System.out.println("------------------------------");
+				
+				
+			}
+		}
+		
+		catch(Exception e) {
+			
+		}
+
+	}
+
+}
+
+
+
+package motorPh;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+
+public class CalculateHoursWorked {
+
+	public static void main(String[] args) {
+		
+		String file = "src\\motorPH\\Attendance Record.csv";
+		BufferedReader reader = null;
+		String line = "", timeSplit[];
+		int startHour, startMin, endHour, endMin;
+		
+		try {
+			reader = new BufferedReader(new FileReader(file));
+			while((line = reader.readLine()) != null) {
+				
+				String[] row = line.split(",");
+				
+				System.out.println("Employee Number: " + row[0]);
+				System.out.println("Last Name: " + row[1]);
+				System.out.println("First Name: " + row[2]);
+				System.out.println("Date: " + row[3]);
+				System.out.println("Time In: " + row[4]);
+				System.out.println("Time Out: " + row[5]);
+				
+				timeSplit = row[4].split(":");
+			    startHour = Integer.valueOf(timeSplit[0]);
+			    startMin = Integer.valueOf(timeSplit[1]);
+			    timeSplit = row[5].split(":");
+			    endHour = Integer.valueOf(timeSplit[0]);
+			    endMin = Integer.valueOf(timeSplit[1]);
+			    
+			    int workedMin = (endHour - startHour) * 60 + (endMin - startMin);
+			    int workedHour = workedMin / 60;
+			    workedMin = workedMin % 60;
+				
+			    System.out.println("Hours worked: " + workedHour + " hours and " + workedMin + " minutes");				
+				
+				
+				/*for (String index : row) {
+					System.out.printf("%-15s", index);
+				}*/
+				System.out.println("------------------------------");
+				
+				
+			}
+		}
+		
+		catch(Exception e) {
+			
+		}
+
+	}
+
+}
+
+
+package motorPh;
+
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.text.NumberFormat;
+
+public class GovernmentDeductions {
+
+	public static void main(String[] args) {
+		
+		String file = "src\\motorPH\\Employee Details.csv";
+		BufferedReader reader = null;
+		String line = "";
+		int basicSalary; 
+		double sssContribution;
+		
+		try {
+			reader = new BufferedReader(new FileReader(file));
+			while((line = reader.readLine()) != null) {
+				
+				String[] row = line.split(",");
+				
+				System.out.println("Employee Number: " + row[0]);
+				System.out.println("Last Name: " + row[1]);
+				System.out.println("First Name: " + row[2]);
+				
+				basicSalary = Integer.parseInt(row[16]);
+				
+			    NumberFormat formatter = NumberFormat.getInstance();
+			    String formattedNumber = formatter.format(basicSalary);
+				
+				System.out.println("Basic salary: ₱" + formattedNumber);
+				
+				
+				sssContribution = SSSContribution(basicSalary);
+				
+				System.out.println("SSS Contribution: ₱" + sssContribution);
+				
+				System.out.println("------------------------------");
+				
+				
+			}
+		}
+		
+		catch(Exception e) {
+			
+		}
+
+	}
+
+	
+	static double SSSContribution(int arg1) {
+	
+		double bracketRange = 499.99, baseBracket = 3250, contributionIterate = 22.5;
+		double maxBracket = baseBracket + bracketRange , minBracket = baseBracket;
+		double contributionAmount = 135;
+		
+		for (int i = 1 ; i <= 42 ; i++) {
+			if (arg1 <= baseBracket) {
+				return 135;
+			} else if (arg1 >= minBracket && arg1 <= maxBracket ) {
+				contributionAmount = contributionAmount + contributionIterate;
+				return contributionAmount;
+			}
+			minBracket = maxBracket;
+			maxBracket = maxBracket + bracketRange;
+		}
+		return 1125;
+	
+	}
+}
